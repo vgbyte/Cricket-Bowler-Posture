@@ -1,5 +1,5 @@
 # Cricket-Bowler-Posture
-This repo will hep you analyze the bowler arm angle while bowling 
+This Jupyter Notebook will hep you analyze the bowler arm angle while bowling 
 
 ## Bowling action of Virat Kohli
 https://user-images.githubusercontent.com/63372730/229297190-f7d1d488-5372-4caf-afb3-a7267023cbfa.mp4
